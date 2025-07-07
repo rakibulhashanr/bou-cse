@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ## Stress – Formal Explanation (Easy Language)
 
 In spoken English, **stress** means giving more strength or loudness to a syllable in a word, or to a word in a sentence, so it sounds clearer or more important than others. Stress helps listeners understand the meaning, emotion, or focus of what is being said.

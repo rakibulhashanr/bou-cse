@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 **B.Sc in Computer Science and Engineering Program**
 **161 Term (1st Year 1st Semester)**

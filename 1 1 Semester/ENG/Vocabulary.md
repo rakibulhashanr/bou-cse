@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ## 📘 Compounding (Word-Making Technique)
 
 ### ✅ **Easy Definition (Formal but Clear):**

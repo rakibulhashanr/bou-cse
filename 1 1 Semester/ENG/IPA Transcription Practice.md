@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### ✅ **Master Table: Level 1 to Level 4 IPA Practice**
 
 | Word   | Your IPA | Correction | Bengali Hint    |

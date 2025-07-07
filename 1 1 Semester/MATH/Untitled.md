@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 Absolutely! Here's the **updated archive** with **Term 221** included in the same chapter-wise format as the previous ones:
 
 ---

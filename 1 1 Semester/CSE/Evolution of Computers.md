@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 | Topic                     | First Generation (1940-1955)            | Second Generation (1955-1964)               | Third Generation (1965-1975)                | Fourth Generation (1975-1989)                                          | Fifth Generation (1989-Present)                 |
 | ------------------------- | --------------------------------------- | ------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- |
 | Power Consumption         | High                                    | Moderate                                    | Lower than second generation                | Lower                                                                  | Minimal                                         |

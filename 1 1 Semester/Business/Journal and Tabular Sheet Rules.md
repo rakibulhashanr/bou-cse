@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 ### 🔵 **1. Assets (সম্পদ)**
 

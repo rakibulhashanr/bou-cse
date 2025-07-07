@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### **Should CSE Graduates Prepare for Entrepreneurship Instead of Government Jobs?**
 
 In recent years, the career choice between **entrepreneurship** and **government jobs** has become a significant topic of debate among **Computer Science and Engineering (CSE)** graduates. While many still prefer the security of government jobs, the rapidly growing tech industry offers limitless possibilities for innovation and independence. **This essay argues that CSE graduates should seriously consider preparing for entrepreneurship rather than solely focusing on government employment, as it offers greater opportunities for creativity, self-growth, and national development.**

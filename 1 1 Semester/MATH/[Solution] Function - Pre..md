@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ## Domain and Range of a Function
 
 ### ✅ Simple Definition (Not Bookish)

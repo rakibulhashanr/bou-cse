@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 **Q7(i):**
 Write a detailed short note on **Electric Flux** as it relates to **Gauss’s Law**. In your answer, define electric flux, explain its physical significance, derive its mathematical form (for both open and closed surfaces), specify its units and dimensional formula, and describe its application in the derivation of Gauss's Law. Include relevant examples and diagrams to support your explanation.

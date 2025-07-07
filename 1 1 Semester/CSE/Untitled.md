@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### 🔢 **Chapter: Number System & Binary Arithmetic – Exact Questions**
 
 * Q2(a) Explain different number systems with examples.

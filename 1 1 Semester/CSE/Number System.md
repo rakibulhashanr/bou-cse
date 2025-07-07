@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 ### Number System:
 A **number system** is a writing system for expressing numbers; it is a mathematical notation for representing numbers in a consistent manner. There are several different types of number systems that are commonly used in mathematics and computer science.

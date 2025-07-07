@@ -1,4 +1,8 @@
 ---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
 
 ## **📘 Revision Note: Intonation and Stress (ENG1131)**
 

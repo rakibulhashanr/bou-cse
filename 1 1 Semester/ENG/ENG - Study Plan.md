@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 Perfect! Here's your **combined 2-day routine** for both **ENG1131 (Communicative English)** and **BUS1123 (Introduction to Business)** — focused on the final 70-mark exam.
 

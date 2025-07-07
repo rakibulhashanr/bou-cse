@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ## ✅ Summary Box: Objectives of Business 
 
 | **Objective**                           | **Easy Explanation**                                           | **Analogy / Example**                                             |

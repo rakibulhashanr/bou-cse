@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### 🧾 Full Cover Letter Format (for printed or formal attachment):
 
 1. **Your address** (top-right or top-left)

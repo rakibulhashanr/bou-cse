@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 **Q: Define "Business" and explain its nature and scope with suitable illustrations. How does the nature of business help us understand its importance in society?**
 
 ---

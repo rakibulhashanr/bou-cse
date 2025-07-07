@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ## ⚡ 60-Minute Circuit Principles Masterplan
 
 ### 🔟 Minute 0–10: **Circuit Basics & Key Terms**

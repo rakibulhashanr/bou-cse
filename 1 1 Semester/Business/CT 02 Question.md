@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 | Date | SL  | Particulars               | L.N | Debit (৳) | Credit (৳) |
 | ---- | --- | ------------------------- | --- | --------- | ---------- |
 |      | 1   | Cash A/c                  | Dr  | 750,000   |            |

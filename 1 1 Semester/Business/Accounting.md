@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags: 
+---
 Here’s a simplified and easy-to-understand explanation of the topics from the image on **Fundamentals of Accounting**, suitable for note-making:
 
 ---

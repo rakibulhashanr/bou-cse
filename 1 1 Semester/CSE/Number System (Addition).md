@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 Sure! Let me explain the binary addition trick shown in your image step-by-step:
 
 ---

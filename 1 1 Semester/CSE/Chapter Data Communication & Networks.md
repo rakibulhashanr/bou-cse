@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### **Q: What is a Computer Network? What are its Goals?**
 
 A **computer network** is a structured system that interconnects multiple computing devices such as computers, servers, printers, mobile devices, and other hardware components using communication channels. These channels may be **wired** (such as coaxial cables, twisted pair cables, fiber optics) or **wireless** (such as Wi-Fi, Bluetooth, satellite, infrared). The primary purpose of networking is to facilitate the **sharing of data, resources, applications, and services** among multiple users in a secure, reliable, and efficient manner.

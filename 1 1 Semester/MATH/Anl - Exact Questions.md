@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 # MAT1134: Differential and Integral Calculus
 
 ### Chapter wise Collection of Exact Exam Questions

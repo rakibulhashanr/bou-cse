@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 ---
 Here is an **expanded explanation** and **clear summary** of the topic **Joint Stock Company** based on the image:

@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 **Introduction to Business (BUS1125)**
 **B.Sc. (Hons) in Computer Science**

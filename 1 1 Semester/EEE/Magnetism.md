@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### 4.2 Biot–Savart Law or Laplace’s Law
 
 According to scientific observation, a magnetic field is produced around a current-carrying conductor. To calculate the magnetic field or magnetic induction at any point, Biot and Savart formulated a law, which Laplace later used to derive a mathematical expression. In 1820, Biot and Savart demonstrated this relationship through an experiment. Hence, this is known as the Biot–Savart Law or Biot–Savart–Laplace Law. Using this law, the magnetic field due to various current elements of a conductor can be determined.

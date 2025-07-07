@@ -1,4 +1,7 @@
 ---
+dg-home: false
+dg-publish: true
+tags:
 sticker: emoji//1f4d6
 aliases: []
 ---

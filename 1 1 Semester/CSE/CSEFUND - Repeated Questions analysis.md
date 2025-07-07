@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 ### 🔁 **Repetition Frequency Analysis (based on your topics):**
 

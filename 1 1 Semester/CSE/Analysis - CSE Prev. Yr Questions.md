@@ -1,4 +1,8 @@
 ---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
 share_link: https://share.note.sx/k4csi5la#UNaWATCNa6Vh+Irq3OVdEcx8Sosq7pxmopeXK5mICv0
 share_updated: 2025-06-15T12:57:20+06:00
 ---

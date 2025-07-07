@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ### 4.3 Ampère’s Law
 
 **What is Ampère’s Law?**

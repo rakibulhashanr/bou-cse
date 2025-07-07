@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 **Q:**
 Define software. Discuss in detail the major types of software with suitable examples. How do system software and application software differ in purpose and functionality? Explain using real-world analogies.

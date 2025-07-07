@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 Certainly! Here's the content written in the same format as the image:
 
 ---

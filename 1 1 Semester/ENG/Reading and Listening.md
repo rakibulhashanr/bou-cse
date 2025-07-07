@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 
 ## **Reading Skills: Types, Techniques, and Importance**
 

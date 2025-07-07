@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 Here's the updated version of your table with **"Phonetic"** included and clearly **distinguished from "Phonetics"**:
 
 | Term                       | Meaning                                                         | Focus Area / Function                                    | Example / Note                                               |

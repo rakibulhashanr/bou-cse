@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ![[output _1_-1.png]]
 ### 📘 Updated 4-Day Study Plan (Considering Term 221)
 

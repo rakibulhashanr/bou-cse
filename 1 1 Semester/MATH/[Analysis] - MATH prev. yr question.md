@@ -1,3 +1,9 @@
+---
+dg-home: false
+dg-publish: true
+aliases: 
+tags:
+---
 ## 📘 **Functions and Models**
 
 🟨 **171 Term**
