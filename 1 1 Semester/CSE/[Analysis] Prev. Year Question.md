@@ -1,3 +1,10 @@
+---
+sticker: emoji//1f4ab
+dg-home: false
+dg-publish: true
+tags: 
+aliases:
+---
 
 
 ###  **Study Strategy: 4-Day Completion Plan**
