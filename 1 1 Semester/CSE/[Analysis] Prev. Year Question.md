@@ -1,6 +1,5 @@
 ---
 sticker: emoji//1f4ab
-dg-home: false
 dg-publish: true
 tags: 
 aliases:
