@@ -9,16 +9,12 @@ aliases:
 
 ###  **Study Strategy: 4-Day Completion Plan**
 
-| **Day**   | **Main Focus Areas**       | **Topics to Cover**                                                                                                                  | **Time Allocation**                  | **Practice Tasks**                                                                            |
-| --------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | --------------------------------------------------------------------------------------------- |
-| **Day 1** | Core Foundations           | - Introduction to Computer Systems<br> - Generations of Computers<br> - CPU Architecture<br> - Computer Organization (Block Diagram) | 3 hrs reading + 1.5 hrs revision     | - Draw CPU & system block diagram<br> - Write short notes on Charles Babbage and gen features |
-|           | Number System Basics       | - Decimal, Binary, Octal, Hex<br> - Positional vs Non-Positional<br> - Conversion Techniques                                         | 2 hrs study + 1 hr exercises         | - Solve conversions (decimal→binary, octal→hex, etc.)<br> - Attempt BCD/ASCII                 |
-| **Day 2** | Binary Arithmetic          | - Binary operations: +, −, ×, ÷<br> - 1’s and 2’s complement<br> - BCD, r’s complement                                               | 2 hrs theory + 2 hrs problem solving | - Practice arithmetic operations<br> - Complete 10+ conversions                               |
-|           | I/O Devices                | - Input/output classification<br> - Pointing & Scanning Devices<br> - Optical Scanners<br> - LCD vs LED                              | 2 hrs total                          | - Compare scanners & monitors<br> - Create summary chart of device types                      |
-| **Day 3** | Storage & Memory           | - RAM, ROM, Cache<br> - Tracks, sectors, EEPROM<br> - Volatile vs Non-Volatile                                                       | 2 hrs theory + 1 hr chart/drawing    | - Draw memory hierarchy<br> - Create flashcards on memory types                               |
-|           | Software & OS              | - Software types, system vs application<br> - OS: types, functions, scheduling<br> - Firmware, development steps                     | 2 hrs reading + 1 hr recap           | - Write OS types with examples<br> - Explain software/firmware via flowchart                  |
-| **Day 4** | Communication & Networking | - Network types (LAN, WAN)<br> - Topologies<br> - Data transmission modes<br> - Internet tools: email, browser, FTP                  | 3 hrs study + 1 hr diagramming       | - Draw topologies & label<br> - Explain email & browser flow                                  |
-|           | Flowcharts, CPU details    | - Flowchart symbols & process states<br> - Instruction set concept<br> - Processor types                                             | 2 hrs focus + 1 hr revision          | - Create one process state diagram<br> - Practice drawing simple flowcharts                   |
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 ### 📘 **Chapter: Introduction to Computer System**
 
